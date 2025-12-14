@@ -119,7 +119,6 @@ void Game::createVAOs() {
     //создаем VAO (для объектов-кубов)
     auto createCubeVAO = [](glm::vec3 color) -> unsigned int {
         float vertices[] = {
-            // Позиции           // Цвет
             -0.5f, -0.5f, -0.5f, color.r, color.g, color.b,
              0.5f, -0.5f, -0.5f, color.r, color.g, color.b,
              0.5f,  0.5f, -0.5f, color.r, color.g, color.b,
