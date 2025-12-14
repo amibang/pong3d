@@ -7,6 +7,6 @@
 - Выход - Esc
 
 # Структура проекта
-biblioteki - нужные библиотеки OpenGL 
-game - исходный код игры
-game.sln - готовый проект в Visual Studio 2022
+- biblioteki - нужные библиотеки OpenGL 
+- game - исходный код игры
+- game.sln - готовый проект в Visual Studio 2022
